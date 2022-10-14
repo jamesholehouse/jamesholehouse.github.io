@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PhD awarded for thesis "Model reduction, mechanistic modelling and transience in models of stochastic chemical kinetics" "
+title: "PhD awarded for thesis \"Model reduction, mechanistic modelling and transience in models of stochastic chemical kinetics\" "
 ---
 
 Recently I was awarded my PhD in Quantitative and Mathematical Biology for my thesis on stochastic modelling in gene expression, 
