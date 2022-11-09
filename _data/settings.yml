@@ -21,4 +21,4 @@ social:
 - {icon: 'google', link: 'https://scholar.google.com/citations?user=mNYEw90AAAAJ&hl=en'}
 
 contacts:
-- {name: 'Dr. James Holehouse', title: 'Postdoctoral researcher', institution: 'The Santa Fe Institute', institution_address: '1399 Hyde Park Rd, Santa Fe, NM 87501, United States', phone: 'Please use email!', email: 'jamesholehouse1@gmail.com', office: 'SFI Cowan Campus', image: 'assets/img/me_charcoal.jpg'}
+- {name: 'Dr. James Holehouse', title: 'Postdoctoral researcher', institution: 'The Santa Fe Institute', institution_address: '1399 Hyde Park Rd, Santa Fe, NM 87501, United States', email: 'jamesholehouse1@gmail.com or jamesholehouse@santafe.edu', office: 'SFI Cowan Campus', image: 'assets/img/me_charcoal.jpg'}
