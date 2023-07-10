@@ -1,5 +1,5 @@
 featured:
-- {name: 'Holehouse, J. (2023). Holehouse, James. "Recurrence and Eigenfunction Methods for Non-Trivial Models of Discrete Binary Choice. Entropy.', url: 'https://www.mdpi.com/1099-4300/25/7/996'}
+- {name: 'Holehouse, J. (2023). Holehouse, James. Recurrence and Eigenfunction Methods for Non-Trivial Models of Discrete Binary Choice. Entropy.', url: 'https://www.mdpi.com/1099-4300/25/7/996'}
 - {name: 'Holehouse, J., & Moran, J. (2022). Exact time-dependent dynamics of discrete binary choice models. Journal of Physics: Complexity.', url: 'https://iopscience.iop.org/article/10.1088/2632-072X/ac8c78'}
 - {name: 'Holehouse, J., & Pollitt, H. (2022). Non-equilibrium time-dependent solution to discrete choice with social interactions. PLoS ONE.', url: 'https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0267083'}
 - {name: 'Braichenko, S., Holehouse, J., & Grima, R. (2021). Distinguishing between models of mammalian gene expression: telegraph-like models versus mechanistic models. J. R. Soc. Interface.', url: 'https://doi.org/10.1098/rsif.2021.0510'}
@@ -9,7 +9,7 @@ featured:
 - {name: 'Holehouse, J., & Grima, R. (2019). Revisiting the reduction of stochastic models of genetic feedback loops with fast promoter switching. Biophysical Journal.', url: 'https://www.sciencedirect.com/science/article/pii/S0006349519307192'}
 
 index:
-- {name: 'Holehouse, J. (2023). Holehouse, James. "Recurrence and Eigenfunction Methods for Non-Trivial Models of Discrete Binary Choice. Entropy.', url: 'https://www.mdpi.com/1099-4300/25/7/996'}
+- {name: 'Holehouse, J. (2023). Holehouse, James. Recurrence and Eigenfunction Methods for Non-Trivial Models of Discrete Binary Choice. Entropy.', url: 'https://www.mdpi.com/1099-4300/25/7/996'}
 - {name: 'Holehouse, J., & Moran, J. (2022). Exact time-dependent dynamics of discrete binary choice models. Journal of Physics: Complexity.', url: 'https://iopscience.iop.org/article/10.1088/2632-072X/ac8c78'}
 - {name: 'Holehouse, J., & Pollitt, H. (2022). Non-equilibrium time-dependent solution to discrete choice with social interactions. PLoS ONE.', url: 'https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0267083'}
 - {name: 'Braichenko, S., Holehouse, J., & Grima, R. (2021). Distinguishing between models of mammalian gene expression: telegraph-like models versus mechanistic models. J. R. Soc. Interface.', url: 'https://doi.org/10.1098/rsif.2021.0510'}
