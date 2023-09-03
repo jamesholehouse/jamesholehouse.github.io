@@ -1,4 +1,6 @@
 featured:
+- {name: 'Holehouse, J., & Redner, S. (2023). First-passage on disordered intervals. arXiv preprint arXiv:2307.08879.', url: 'https://arxiv.org/pdf/2307.08879.pdf'}
+- {name: 'Weidemann, D. E., Holehouse, J., Singh, A., Grima, R., & Hauf, S. (2023). The minimal intrinsic stochasticity of constitutively expressed eukaryotic genes is sub-Poissonian. Science Advances, 9(32), eadh5138.', url: 'https://www.science.org/doi/full/10.1126/sciadv.adh5138'}
 - {name: 'Holehouse, J. (2023). Holehouse, James. Recurrence and Eigenfunction Methods for Non-Trivial Models of Discrete Binary Choice. Entropy.', url: 'https://www.mdpi.com/1099-4300/25/7/996'}
 - {name: 'Holehouse, J., & Moran, J. (2022). Exact time-dependent dynamics of discrete binary choice models. Journal of Physics: Complexity.', url: 'https://iopscience.iop.org/article/10.1088/2632-072X/ac8c78'}
 - {name: 'Holehouse, J., & Pollitt, H. (2022). Non-equilibrium time-dependent solution to discrete choice with social interactions. PLoS ONE.', url: 'https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0267083'}
@@ -9,6 +11,8 @@ featured:
 - {name: 'Holehouse, J., & Grima, R. (2019). Revisiting the reduction of stochastic models of genetic feedback loops with fast promoter switching. Biophysical Journal.', url: 'https://www.sciencedirect.com/science/article/pii/S0006349519307192'}
 
 index:
+- {name: 'Holehouse, J., & Redner, S. (2023). First-passage on disordered intervals. arXiv preprint arXiv:2307.08879.', url: 'https://arxiv.org/pdf/2307.08879.pdf'}
+- {name: 'Weidemann, D. E., Holehouse, J., Singh, A., Grima, R., & Hauf, S. (2023). The minimal intrinsic stochasticity of constitutively expressed eukaryotic genes is sub-Poissonian. Science Advances, 9(32), eadh5138.', url: 'https://www.science.org/doi/full/10.1126/sciadv.adh5138'}
 - {name: 'Holehouse, J. (2023). Holehouse, James. Recurrence and Eigenfunction Methods for Non-Trivial Models of Discrete Binary Choice. Entropy.', url: 'https://www.mdpi.com/1099-4300/25/7/996'}
 - {name: 'Holehouse, J., & Moran, J. (2022). Exact time-dependent dynamics of discrete binary choice models. Journal of Physics: Complexity.', url: 'https://iopscience.iop.org/article/10.1088/2632-072X/ac8c78'}
 - {name: 'Holehouse, J., & Pollitt, H. (2022). Non-equilibrium time-dependent solution to discrete choice with social interactions. PLoS ONE.', url: 'https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0267083'}
