@@ -1,4 +1,4 @@
 ---
 layout: publications
-title: "Research Output"
+title: "Publications"
 ---
