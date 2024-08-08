@@ -1,8 +1,14 @@
 <div class="row g-5 mb-5">
   <div>
     <h3 class="fw-bold border-bottom pb-3 mb-5">Talks</h3>
-      {% for item in site.data.talks.index %}
-        <p> {{item.name}} </p>
-      {% endfor %}
+    {% for item in site.data.talks.index %}
+      <p>
+        {% if item.url %}
+          <a href="{{ item.url }}">{{ item.name }}</a>
+        {% else %}
+          {{ item.name }}
+        {% endif %}
+      </p>
+    {% endfor %}
   </div>
 </div>
