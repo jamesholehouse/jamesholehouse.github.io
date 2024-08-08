@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Awarded the Reinhart Heinrich Award from ESMTB"
+title: "Awarded the Reinhart Heinrich Award for best thesis in Mathematical Biology from ESMTB"
 ---
 
 Two weeks ago I was awarded the Reinhart Heinrich award from the [European Society for Mathematical Biology](https://www.esmtb.org/page-18082) for "his contribution on developing novel analytical and computational techniques for stochastic systems, including model reduction, 
