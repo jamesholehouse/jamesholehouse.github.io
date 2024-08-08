@@ -3,7 +3,7 @@ layout: home
 title: "Home"
 ---
 
-I'm James, a postdoc at the Santa Fe Institute (SFI)! I completed my PhD in Mathematical Biology at the University of Edinburgh. I obtained a first-class honors degree in Theoretical Physics (MPhys) from the University of Edinburgh. My main interests span several aspects of complexity science and statistical physics:
+I'm James, a postdoc at the Santa Fe Institute! I completed my PhD in Mathematical Biology at the University of Edinburgh. I obtained a first-class honors degree in Theoretical Physics (MPhys) from the University of Edinburgh. My main interests span several aspects of complexity science and statistical physics:
 
 - Stochasticity and its non-intuitive consequences.
 - The effects of randomness on gene expression.
