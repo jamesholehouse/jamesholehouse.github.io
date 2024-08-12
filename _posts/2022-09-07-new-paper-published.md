@@ -8,4 +8,5 @@ Alongside Dr. José Moran at the University of Oxford, we have a new publication
 <div style="text-align: center;">
   <img src="https://jamesholehouse.github.io/assets/img/ants-image.png" alt="diagram" title="" width="600" height="600">
 </div>
+Caption: examples of (a) random switching dominating recruitment, (b) "equal" contribution from random switching and recruitment, and (c) domination of recruitment.
 
