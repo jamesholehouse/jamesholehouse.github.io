@@ -1,7 +1,7 @@
 featured:
 - {name: 'Holehouse, J. (2024). Pre-print. Principles of bursty mRNA expression and irreversibility in single cells and extrinsically varying populations. arXiv preprint arXiv:2405.12897',  url: 'https://arxiv.org/abs/2405.12897'}
 - {name: 'Holehouse, J., & Redner, S. (2024). First-passage on disordered intervals. Physical Review E, 109(3), L032102.', url: 'https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.L032102'}
-- {name: 'Holehouse, J. (2024). Thesis summary: Model reduction, mechanistic modelling and transience in models of stochastic chemical kinetics. European Communications in Mathematical and Theoretical Biology 26, 6-14', url: 'https://esmtb.org/ESMTB-Communications'}
+- {name: 'Holehouse, J. (2024). Thesis summary: Model reduction, mechanistic modelling and transience in models of stochastic chemical kinetics. European Communications in Mathematical and Theoretical Biology Volume 26 (2023), p. 6-14', url: 'https://esmtb.org/ESMTB-Communications'}
 - {name: 'Wu, B., Holehouse, J., Grima, R., & Jia, C. (2024). Solving the time-dependent protein distributions for autoregulated bursty gene expression using spectral decomposition. The Journal of Chemical Physics, 160(7)',  url: 'https://pubs.aip.org/aip/jcp/article/160/7/074105/3265723'}
 - {name: 'Weidemann, D. E., Holehouse, J., Singh, A., Grima, R., & Hauf, S. (2023). The minimal intrinsic stochasticity of constitutively expressed eukaryotic genes is sub-Poissonian. Science Advances, 9(32), eadh5138.', url: 'https://www.science.org/doi/full/10.1126/sciadv.adh5138'}
 - {name: 'Holehouse, J. (2023). Holehouse, James. Recurrence and Eigenfunction Methods for Non-Trivial Models of Discrete Binary Choice. Entropy.', url: 'https://www.mdpi.com/1099-4300/25/7/996'}
@@ -9,7 +9,7 @@ featured:
 index:
 - {name: 'Holehouse, J. (2024). Pre-print. Principles of bursty mRNA expression and irreversibility in single cells and extrinsically varying populations. arXiv preprint arXiv:2405.12897',  url: 'https://arxiv.org/abs/2405.12897'}
 - {name: 'Holehouse, J., & Redner, S. (2024). First-passage on disordered intervals. Physical Review E, 109(3), L032102.', url: 'https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.L032102'}
-- {name: 'Holehouse, J. (2024). Thesis summary: Model reduction, mechanistic modelling and transience in models of stochastic chemical kinetics. European Communications in Mathematical and Theoretical Biology 26, 6-14', url: 'https://esmtb.org/ESMTB-Communications'}
+- {name: 'Holehouse, J. (2024). Thesis summary: Model reduction, mechanistic modelling and transience in models of stochastic chemical kinetics. European Communications in Mathematical and Theoretical Biology Volume 26 (2023), p. 6-14', url: 'https://esmtb.org/ESMTB-Communications'}
 - {name: 'Wu, B., Holehouse, J., Grima, R., & Jia, C. (2024). Solving the time-dependent protein distributions for autoregulated bursty gene expression using spectral decomposition. The Journal of Chemical Physics, 160(7)',  url: 'https://pubs.aip.org/aip/jcp/article/160/7/074105/3265723'}
 - {name: 'Weidemann, D. E., Holehouse, J., Singh, A., Grima, R., & Hauf, S. (2023). The minimal intrinsic stochasticity of constitutively expressed eukaryotic genes is sub-Poissonian. Science Advances, 9(32), eadh5138.', url: 'https://www.science.org/doi/full/10.1126/sciadv.adh5138'}
 - {name: 'Holehouse, J. (2023). Holehouse, James. Recurrence and Eigenfunction Methods for Non-Trivial Models of Discrete Binary Choice. Entropy.', url: 'https://www.mdpi.com/1099-4300/25/7/996'}
