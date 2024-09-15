@@ -7,5 +7,5 @@ In Exeter at the Complex Systems Society conference I presented my work with Sid
 [here](https://docs.google.com/presentation/d/1asymVA49hI5iJmFIkj4PzI441PoklVtN2JeNrUPOpns/edit?usp=sharing). In the same session that I was presenting in there were a couple of stand-out talks, that of Joseph Bradley (CSH Vienna & KCL) on momentum portfolios and that of Paolo Barucca (UCL) using random matrix theory to understand complicated Ornstin-Uhlenbeck processes. Check out their work!
 
 <div style="text-align: center;">
-  <img src="https://jamesholehouse.github.io/_posts/css-conf-pic.png" alt="slide from talk" title="" width="800" height="600">
+  <img src="https://jamesholehouse.github.io/_posts/css-conf-pic.png" alt="slide from talk" title="" width="800" height="500">
 </div>
