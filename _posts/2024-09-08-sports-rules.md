@@ -3,7 +3,7 @@ layout: post
 title: "Curating Sports Rule Books in Rugby and Cricket"
 ---
 
-I spent this last week at the Marylebone Cricket Club's library/archive in Lord's cricket ground collecting data on the rule books of cricket from 1744-present day, and next week I will be spending several days at Twickenham stadium doing similar for rugby (1845-present day).
+I spent this last week at the Marylebone Cricket Club's library/archive in Lord's cricket ground collecting data on the rule books of cricket from 1744-present day, and next week I will be spending several days at Twickenham stadium doing similar for rugby from 1845-present day.
 The aim of this is to provide data in a first step to answering these questions about how the rules and regulations evolve across a multitude of different systems, from sport to governance to regulatory networks in cells. 
 It is the first project of its type that will provide an online archive for the history of sports rule books.
 
