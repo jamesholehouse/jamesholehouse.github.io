@@ -15,5 +15,5 @@ I hope to make this archive publically available within the next month or so. Fo
 for facilitating my research visits and for help, advice and consultation! 
 
 <div style="text-align: center;">
-  <img src="https://jamesholehouse.github.io/_posts/comb-photos.png" alt="photos from Lord's" title="" width="500" height="800">
+  <img src="https://jamesholehouse.github.io/_posts/comb-photos.png" alt="photos from Lord's" title="" width="500" height="720">
 </div>
