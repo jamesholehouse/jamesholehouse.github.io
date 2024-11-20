@@ -11,7 +11,7 @@ I spent this last week at the Marylebone Cricket Club's library/archive in Lord'
 The aim of this project is to provide data in a first step to answering these questions about how rules and regulations evolve across a multitude of different systems, from sport to governance to regulatory networks in cells. 
 It is the first project of its type that will provide an online archive for the history of sports rule books.
 
-I hope to make this archive publically available within the next month or so. Follow-up researh will occur on this over the next year. Below of some photos from my time at Lord's. Thanks to Alan Rees, Niamh Field and Phil McGowan 
+Please find the archive of sports rulebooks for rugby and cricket at [https://www.sportsrulesproject.com/](https://www.sportsrulesproject.com/). Follow-up researh will occur on this over the next year. Below of some photos from my time at Lord's. Thanks to Alan Rees, Niamh Field and Phil McGowan 
 for facilitating my research visits and for help, advice and consultation! 
 
 <div style="text-align: center;">
